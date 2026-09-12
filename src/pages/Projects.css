@@ -1,0 +1,11 @@
+.project-image-container {
+    display: flex;
+    border-radius: 10px;
+    border: none;
+}
+
+.project-image {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 5px;
+}
